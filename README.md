@@ -2,4 +2,4 @@
    
    Bem-vindo ao meu repositório de portfólio!
    
-   [Link importante](https://claude.ai/share/20f07413-7f9c-4d93-a09f-f8f574f1fad2)
+   [Clique aqui para ver a conversa](https://claude.ai/share/20f07413-7f9c-4d93-a09f-f8f574f1fad2)
